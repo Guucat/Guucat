@@ -1,6 +1,7 @@
 ### Hi 👋, I'm shengyi
 A passionate software development intern from China
 
+- 📝 I regularly write articles on [https://juejin.cn/user/44411712977815](https://juejin.cn/user/44411712977815)
 - 📫 How to reach me **dew97@qq.com**
 <h3 align="left">Languages and Tools:</h3>
 
@@ -8,6 +9,10 @@ A passionate software development intern from China
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a> 
+  
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  </a>
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
