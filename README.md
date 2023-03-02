@@ -1,7 +1,7 @@
 ### Hi 👋, I'm shengyi
 A passionate software development intern from China. 
 
-My vision is to provide users with quality software services in code.
+Aims to provide quality software services which  user needs and business requirements with code.
 
 <!-- - 📝 I regularly write articles on [https://juejin.cn/user/44411712977815](https://juejin.cn/user/44411712977815) -->
 - 📫 How to reach me **dew97@qq.com**
