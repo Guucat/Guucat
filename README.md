@@ -1,5 +1,5 @@
 ### Hi 👋, I'm shengyi
-A passionate software development intern from China. 
+A passionate software development engineer from China. 
 
 Aims to provide quality software services which  user needs and business requirements with code.
 
